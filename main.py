@@ -1,1 +1,4 @@
-#WRITE YOUR CODE IN THIS FILE
+def lastLetter(w):
+    return w [-1] 
+
+print(lastLetter("starwars"))
